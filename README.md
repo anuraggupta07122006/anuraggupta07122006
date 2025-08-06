@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anurag Gupta
+#  Hi, I'm Anurag Gupta
 
 🎓 B.Tech (3rd Year), Specialization in Artificial Intelligence & Machine Learning  
 💻 Aspiring AI/ML Engineer | 🌐 Frontend Developer | 🧠 Problem Solver  
