@@ -18,19 +18,23 @@ I’m constantly improving my coding and problem-solving skills through platform
 
 ---
 
-## 🚀 Projects & Contributions
+## 🚀 Projects & Contributions  
 
 ### 🔹 [Legal Chatbot](https://github.com/anuraggupta07122006/Legal-Chatbot)  
-An AI-powered legal assistant forked and enhanced for practical legal guidance.  
-`Python` | `Chatbot` | `RAG` | `AI`
+📌 AI-powered legal assistant for practical legal guidance.  
+**Tech:** `Python` | `Chatbot` | `RAG` | `AI`  
 
 ### 🔹 [Data Dynamos – HackIndia 2025](https://github.com/anuraggupta07122006/Data-Dynamos-HackIndia-2025)  
-Hackathon project using AI/ML for impactful societal solutions.  
-`Hackathon` | `AI/ML` | `Team Project`
+📌 AI/ML-driven hackathon project solving real-world societal challenges.  
+**Tech:** `Hackathon` | `AI/ML` | `Team Project`  
 
-### 🔹 [CODSOFT Tasks](https://github.com/anuraggupta07122006?tab=repositories&q=codsoft)  
-A series of Jupyter Notebook-based mini-projects as part of a tech internship.  
-`Machine Learning` | `Jupyter` | `Exploratory Data Analysis`
+### 🔹 [CODSOFT Internship Tasks](https://github.com/anuraggupta07122006?tab=repositories&q=codsoft)  
+📌 Jupyter-based ML mini-projects covering EDA, modeling & analysis.  
+**Tech:** `Machine Learning` | `Python` | `Jupyter`  
+
+### 🔹 [YOGA-Ai](https://github.com/anuraggupta07122006/YOGA-Ai)  
+📌 An AI-powered yoga trainer that detects poses & provides real-time feedback.  
+**Tech:** `Python` | `Computer Vision` | `AI/ML` | `OpenCV`  
 
 ---
 
