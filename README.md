@@ -1,81 +1,97 @@
-#  Hi, I'm Anurag Gupta
+<h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
+<p align="center">Innovative AI/ML Engineer | Web Developer | Problem Solver</p>
 
-🎓 B.Tech (3rd Year), Specialization in Artificial Intelligence & Machine Learning  
-💻 Aspiring AI/ML Engineer | 🌐 Frontend Developer | 🧠 Problem Solver  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Gupta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anurag-gupta-62282b317)  
-[![GitHub followers](https://img.shields.io/github/followers/anuraggupta07122006?label=Follow&style=social)](https://github.com/anuraggupta07122006)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/AIML1_2313001)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active%20User-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anuragp2313001/)
-
----
-
-## 💡 About Me
-
-I’m a self-motivated AI/ML student from Kanpur with a passion for blending intelligent systems with interactive web technologies. I thrive at the intersection of data, logic, and design — whether it’s building models in Python or crafting user interfaces with HTML, CSS, and JavaScript.
-
-I’m constantly improving my coding and problem-solving skills through platforms like LeetCode and HackerRank, while also working on real-world projects and hackathons to apply what I learn.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuraggupta07122006&label=Profile%20views" alt="views" />
+  <a href="mailto:ag257725941@gmail.com"><img src="https://img.shields.io/badge/Email-ag257725941@gmail.com-informational?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/anurag-gupta"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://leetcode.com/your_leetcode_username/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode"></a>
+  <a href="https://www.hackerrank.com/your_hackerrank_username"><img src="https://img.shields.io/badge/HackerRank-Profile-success?logo=hackerrank"></a>
+</p>
 
 ---
 
-## 🚀 Projects & Contributions  
-
-### 🔹 [Legal Chatbot](https://github.com/anuraggupta07122006/Legal-Chatbot)  
-📌 AI-powered legal assistant for practical legal guidance.  
-**Tech:** `Python` | `Chatbot` | `RAG` | `AI`  
-
-### 🔹 [Data Dynamos – HackIndia 2025](https://github.com/anuraggupta07122006/Data-Dynamos-HackIndia-2025)  
-📌 AI/ML-driven hackathon project solving real-world societal challenges.  
-**Tech:** `Hackathon` | `AI/ML` | `Team Project`  
-
-### 🔹 [CODSOFT Internship Tasks](https://github.com/anuraggupta07122006?tab=repositories&q=codsoft)  
-📌 Jupyter-based ML mini-projects covering EDA, modeling & analysis.  
-**Tech:** `Machine Learning` | `Python` | `Jupyter`  
-
-### 🔹 [YOGA-Ai](https://github.com/anuraggupta07122006/YOGA-Ai)  
-📌 An AI-powered yoga trainer that detects poses & provides real-time feedback.  
-**Tech:** `Python` | `Computer Vision` | `AI/ML` | `OpenCV`  
+### 🙋‍♂️ About Me
+- 🔭 I’m currently working on **AI-driven projects like Legal Chatbot & Yoga AI**
+- 🌱 Learning **React, Next.js, and Advanced Machine Learning**
+- 👯 Open to collaborating on **AI/ML and full-stack web apps**
+- 💬 Ask me about **Python, Machine Learning, Web Development, DSA**
+- 📫 Reach me at **ag257725941@gmail.com**
+- ⚡ Fun fact: I enjoy solving coding challenges and hackathon problems 🚀
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Languages:** Python, JavaScript, C/C++, HTML, CSS  
-- **Libraries/Frameworks:** NumPy, Pandas, scikit-learn, Jupyter  
-- **Web Dev:** HTML5, CSS3, JavaScript  
-- **Tools:** GitHub, Google Colab, MySQL, VS Code  
-- **Core Concepts:** Machine Learning, OOP, DSA, Problem Solving
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,next,tailwind,nodejs,express,mysql,mongodb,java,cpp,git,github,vscode,postman,figma&perline=10" />
+</p>
 
 ---
 
-## 📈 Competitive Programming
-
-- 🔸 **HackerRank:**  
-  Solving challenges in Python, SQL & Problem Solving  
-  👉 [Visit Profile](https://www.hackerrank.com/profile/AIML1_2313001)
-
-- 🔸 **LeetCode:**  
-  Actively solving problems to strengthen DSA and algorithmic thinking  
-  👉 [Visit Profile](https://leetcode.com/u/anuragp2313001/)
+### 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Yoga AI 🧘‍♀️</h3>
+      <a href="https://github.com/anuraggupta07122006/YOGA-Ai">
+        <img src="assets/yoga-ai.png" alt="Yoga AI" />
+      </a>
+      <p>AI-powered yoga posture recognition using OpenCV & Pose Detection.</p>
+      <p>
+        <a href="https://github.com/anuraggupta07122006/YOGA-Ai">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Legal Chatbot ⚖️</h3>
+      <a href="https://github.com/anuraggupta07122006/Legal-Chatbot">
+        <img src="assets/legal-chatbot.png" alt="Legal Chatbot" />
+      </a>
+      <p>AI chatbot for legal queries using RAG and NLP.</p>
+      <p>
+        <a href="https://github.com/anuraggupta07122006/Legal-Chatbot">Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>HackIndia 2025 – Data Dynamos 🚀</h3>
+      <a href="https://github.com/anuraggupta07122006/Data-Dynamos">
+        <img src="assets/hackindia.png" alt="HackIndia Project" />
+      </a>
+      <p>AI/ML hackathon project solving real-world data challenges.</p>
+      <p>
+        <a href="https://github.com/anuraggupta07122006/Data-Dynamos">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>CODSOFT Internship Tasks 📊</h3>
+      <a href="https://github.com/anuraggupta07122006/CODSOFT">
+        <img src="assets/codsoft.png" alt="CODSOFT Internship" />
+      </a>
+      <p>Machine learning mini-projects: EDA, prediction models, analysis.</p>
+      <p>
+        <a href="https://github.com/anuraggupta07122006/CODSOFT">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Highlights
-
-- ✅ Participated in national-level hackathons like **HackIndia 2025**  
-- ✅ Completed internship projects under **CODSOFT**  
-- ✅ Constantly exploring new areas in AI, ML, and Frontend  
-- ✅ Open to internship or collaborative opportunities in AI/Web Development
-
----
-
-## 📫 Let's Connect!
-
-📍 Kanpur, India  
-✉️ [ag257725941@gmail.com](mailto:ag257725941@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/anurag-gupta-62282b317)  
-🌐 [GitHub](https://github.com/anuraggupta07122006)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraggupta07122006&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuraggupta07122006&theme=transparent" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggupta07122006&layout=compact&langs_count=8&theme=transparent" height="150" />
+</p>
 
 ---
 
-> *“I build smart systems that not only think — but also look and feel great.”*
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuraggupta07122006/anuraggupta07122006/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">⭐ Thanks for visiting! ⭐</p>
