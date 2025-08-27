@@ -110,7 +110,7 @@ Machine learning mini-projects: **EDA, Prediction Models & Analysis**.
 ## 📊 GitHub Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraggupta07122006&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuraggupta07122006&theme=transparent" height="160" />
+  <img src="https://streak-stats.demolab.com?user=anuraggupta07122006&theme=transparent" height="160" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggupta07122006&layout=compact&langs_count=8&theme=transparent" height="160" />
@@ -129,13 +129,12 @@ Machine learning mini-projects: **EDA, Prediction Models & Analysis**.
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuraggupta07122006&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=anuraggupta07122006&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraggupta07122006&theme=tokyo-night" alt="Contribution Graph" />
-
 </p>
 
 ---
