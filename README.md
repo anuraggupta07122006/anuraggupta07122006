@@ -135,6 +135,7 @@ Machine learning mini-projects: **EDA, Prediction Models & Analysis**.
 <p align="center">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraggupta07122006&theme=tokyo-night" alt="Contribution Graph" />
+
 </p>
 
 ---
