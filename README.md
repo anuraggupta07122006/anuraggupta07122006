@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="https://leetcode.com/anuraggupta07122006/" target="_blank">
+  <a href="https://leetcode.com/u/anuragp2313001/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode" />
   </a>
   
-  <a href="https://www.hackerrank.com/ag257725941" target="_blank">
+  <a href="https://www.hackerrank.com/profile/AIML1_2313001" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-success?logo=hackerrank" alt="HackerRank" />
   </a>
 </p>
