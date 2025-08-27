@@ -20,7 +20,12 @@
 - ⚡ Fun fact: I love solving coding challenges & hackathon problems 🚀  
 
 ---
-### 🛠️ Tech Stack  
+### Languages and Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,next,tailwind,nodejs,express,mysql,mongodb,java,cpp,git,github,vscode,postman,figma&perline=10" />
+</p>
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
