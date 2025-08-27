@@ -1,9 +1,5 @@
-# 🌐 My Portfolio
+
 [![Anurag Gupta Banner](https://raw.githubusercontent.com/anuraggupta07122006/portfolio/main/assets/banner.png)](https://anuraggupta07122006.github.io/portfolio/)
-
-
-Welcome to my portfolio!  
-
 👉 **[Click here to view live](https://anuraggupta07122006.github.io/portfolio/)**  
 
 ---
