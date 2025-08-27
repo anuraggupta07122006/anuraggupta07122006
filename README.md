@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuraggupta07122006&label=Profile%20views" alt="views" />
   <a href="mailto:ag257725941@gmail.com"><img src="https://img.shields.io/badge/Email-ag257725941@gmail.com-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/anurag-gupta"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="[https://www.linkedin.com/in/anurag-gupta](https://www.linkedin.com/in/anurag-gupta-62282b317/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://leetcode.com/your_leetcode_username/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode"></a>
   <a href="https://www.hackerrank.com/your_hackerrank_username"><img src="https://img.shields.io/badge/HackerRank-Profile-success?logo=hackerrank"></a>
 </p>
