@@ -95,3 +95,11 @@
 </p>
 
 <p align="center">⭐ Thanks for visiting! ⭐</p>
+<!-- Snake animation -->
+<p align="center">
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/anuraggupta07122006/anuraggupta07122006/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
+  
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/anuraggupta07122006/anuraggupta07122006/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
+</p>
