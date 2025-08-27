@@ -28,50 +28,51 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### ⚖️ Legal Chatbot  
+### ⚖️ Legal Chatbot
 AI-powered **legal advisor for Indian laws** providing instant, scenario-based guidance.  
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)  
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?logo=knowledgegraph&logoColor=white)  
-
-🔗 [View Repo](https://github.com/anuraggupta07122006/Legal-Chatbot)
-
----
-
-#### 🧘 Yoga AI  
-AI-driven **yoga posture recognition** with real-time feedback for better alignment.  
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white)  
-
-🔗 [View Repo](https://github.com/anuraggupta07122006/YOGA-Ai)
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Flask-black?logo=flask" />
+  <img src="https://img.shields.io/badge/Firestore-FFA611?logo=firebase" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2" />
+</p>
+🔗 [Repo](https://github.com/anuraggupta07122006/Legal-Chatbot)
 
 ---
 
-#### 🎙️ VoiceBrowse  
-Chrome extension for **voice-based browsing** — navigate tabs, bookmarks & interact with AI.  
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Chrome API](https://img.shields.io/badge/Chrome_API-4285F4?logo=googlechrome&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
-
-🔗 [View Repo](https://github.com/anuraggupta07122006/VoiceBrowse)
+### 🧘 Yoga AI
+AI-driven **yoga posture recognition** with real-time feedback using OpenCV & MediaPipe.  
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00" />
+</p>
+🔗 [Repo](https://github.com/anuraggupta07122006/YOGA-Ai)
 
 ---
 
-#### 🛡️ Phishing Detection  
-ML model for **phishing URL detection & classification** to enhance online security.  
+### 🚀 HackIndia 2025 – Data Dynamos
+AI/ML **hackathon project** solving real-world data challenges.  
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange" />
+  <img src="https://img.shields.io/badge/Hackathon-red" />
+</p>
+🔗 [Repo](https://github.com/anuraggupta07122006/Data-Dynamos)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)  
-![Security](https://img.shields.io/badge/Security-FF0000?logo=security&logoColor=white)  
+---
 
-🔗 [View Repo](https://github.com/anuraggupta07122006/Phishing-Detection)
+### 📊 CODSOFT Internship Tasks
+Machine learning mini-projects: **EDA, Prediction Models & Analysis**.  
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/EDA-green" />
+  <img src="https://img.shields.io/badge/ML-yellow" />
+</p>
+🔗 [Repo](https://github.com/anuraggupta07122006/CODSOFT)
+
 
 ---
 
