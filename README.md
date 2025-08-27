@@ -89,11 +89,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuraggupta07122006/anuraggupta07122006/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
 <p align="center">⭐ Thanks for visiting! ⭐</p>
 <!-- Snake animation -->
 <p align="center">
