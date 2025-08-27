@@ -77,6 +77,13 @@ Machine learning mini-projects: **EDA, Prediction Models & Analysis**.
 ---
 
 ## 📊 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraggupta07122006&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuraggupta07122006&theme=transparent" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggupta07122006&layout=compact&langs_count=8&theme=transparent" height="160" />
+</p>
 
 <p align="center">
   <!-- Profile Info Card -->
