@@ -1,3 +1,11 @@
+# 🌐 My Portfolio
+
+Welcome to my portfolio!  
+
+👉 **[Click here to view live](https://anuraggupta07122006.github.io/portfolio/)**  
+
+---
+
 <h1 align="center">Hi , I'm Anurag Gupta</h1>
 <p align="center">Innovative AI/ML Engineer | Web Developer | Problem Solver</p>
 
