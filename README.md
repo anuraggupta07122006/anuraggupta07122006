@@ -120,34 +120,28 @@ Machine learning mini-projects: **EDA, Prediction Models & Analysis**.
 ---
 
 ## 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraggupta07122006&show_icons=true&theme=transparent" height="160" />
-  <img src="https://streak-stats.demolab.com?user=anuraggupta07122006&theme=transparent" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggupta07122006&layout=compact&langs_count=8&theme=transparent" height="160" />
-</p>
 
-<p align="center">
-  <!-- Profile Info Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraggupta07122006&theme=tokyonight" alt="Profile Details" />
-</p>
+<div align="center">
 
-<p align="center">
+  <!-- Main Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraggupta07122006&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=anuraggupta07122006&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" height="180em" />
+
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggupta07122006&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" height="180em" />
+
+  <!-- Profile Info -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraggupta07122006&theme=tokyonight" height="200em" />
+
   <!-- Stats + Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuraggupta07122006&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuraggupta07122006&theme=tokyonight&utcOffset=5.5" alt="Commits" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuraggupta07122006&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuraggupta07122006&theme=tokyonight&utcOffset=5.5" height="180em" />
 
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=anuraggupta07122006&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
-</p>
-
-<p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraggupta07122006&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraggupta07122006&theme=tokyo-night&hide_border=true" height="250em" />
+
+</div>
+
 
 ---
 
