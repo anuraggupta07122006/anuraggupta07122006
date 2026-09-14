@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Anurag Gupta — AI/ML & Systems" width="100%" />
+  <a href="https://anuraggupta07122006.github.io/portfolio/" target="_blank" rel="noopener">
+    <img src="assets/header.svg" alt="Anurag Gupta — AI/ML & Systems (Click to View Live Portfolio)" width="100%" />
+  </a>
 </p>
 
 <p align="center">
